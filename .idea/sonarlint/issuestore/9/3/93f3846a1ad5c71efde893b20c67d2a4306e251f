@@ -1,0 +1,5 @@
+
+ª%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(Ø½ì¦
+ª%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Ø½ì¦
+¶%squid:RedundantThrowsDeclarationCheck"„Remove the declaration of thrown exception 'javax.swing.UnsupportedLookAndFeelException', as it cannot be thrown from method's body.(Ø½ì¦
+ª%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(Ø½ì¦

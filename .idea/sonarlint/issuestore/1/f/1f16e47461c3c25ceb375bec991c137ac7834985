@@ -1,0 +1,18 @@
+
+isquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(Œ²ã“
+csquid:S20959"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(æÁªûÿÿÿÿ
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+nsquid:S20779"RUse a variable binding mechanism to construct this query instead of concatenation.(æÁªûÿÿÿÿ
+csquid:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œ²ã“
+csquid:S2095K"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—éê·ÿÿÿÿÿ
+csquid:S2095="GUse try-with-resources or close this "ResultSet" in a "finally" clause.(şÍ“úÿÿÿÿ
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”úóøÿÿÿÿ8ĞÊì”½-
+usquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ªš§úÿÿÿÿ8ĞÊì”½-
+usquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÁªûÿÿÿÿ8ĞÊì”½-
+psquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¢‘²8ĞÊì”½-
+psquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¾«¯8ĞÊì”½-
+usquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍ“úÿÿÿÿ8ĞÊì”½-
+usquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—éê·ÿÿÿÿÿ8ĞÊì”½-
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÊì”½-
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÊì”½-
